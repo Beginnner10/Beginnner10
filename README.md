@@ -84,19 +84,7 @@ A mechanical design project involving a **4-bar linkage mechanism and robotic en
 
 ---
 
-## 📚 Currently Learning
-
-```text
-DSA
- ├── Arrays & Strings
- ├── Linked Lists
- ├── Stacks & Queues
- ├── Trees
- ├── Graph Algorithms
- ├── Recursion & Backtracking
- ├── Dynamic Programming
- └── Advanced Problem Solving
-```
+## 📚 Currently Learning DSA
 
 Alongside DSA, I'm exploring **robotics, embedded systems, control systems and industrial automation**.
 
@@ -122,9 +110,11 @@ I believe in understanding **why an algorithm works**, not just memorizing its i
 
 ## 📫 Connect With Me
 
-* GitHub: [@Beginnner10](https://github.com/Beginnner10)
-* LinkedIn: Add your LinkedIn profile here
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jay%20Kant%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-kant-singh/)
+
+[![Email](https://img.shields.io/badge/Email-itsjaykantofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsjaykantofficial@gmail.com)
 ---
 
-### ⚡ Build • Solve • Learn • Repeat
